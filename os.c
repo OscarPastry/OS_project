@@ -12,7 +12,7 @@
 #include <signal.h>
 #include <errno.h>
 
-#define CONFIG_FILE "/mnt/storage/osproject/tasks.json"
+#define CONFIG_FILE "/mnt/storage/osproject/tasks.json" //change this location
 #define LOG_FILE "/tmp/scheduler.log"
 #define PID_FILE "/var/run/green_scheduler.pid"
 #define CARBON_API_URL "https://api.carbonintensity.org.uk/intensity"
