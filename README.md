@@ -1,6 +1,6 @@
 # OS_project
 
-### change the directory location at the start of the code
+### change the directory location ,at the start of the code
 
 run the following 
 ```
