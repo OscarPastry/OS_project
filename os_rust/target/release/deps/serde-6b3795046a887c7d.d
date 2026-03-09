@@ -1,0 +1,14 @@
+/home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/deps/serde-6b3795046a887c7d.d: /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/build/serde-41e97f31a0c20611/out/private.rs
+
+/home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/deps/libserde-6b3795046a887c7d.rlib: /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/build/serde-41e97f31a0c20611/out/private.rs
+
+/home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/deps/libserde-6b3795046a887c7d.rmeta: /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/build/serde-41e97f31a0c20611/out/private.rs
+
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/build/serde-41e97f31a0c20611/out/private.rs:
+
+# env-dep:OUT_DIR=/home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/build/serde-41e97f31a0c20611/out

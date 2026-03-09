@@ -1,0 +1,11 @@
+/home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/deps/ctrlc-9eb2d27a512e3926.d: /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/lib.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/error.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/platform/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/platform/unix/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/signal.rs
+
+/home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/deps/libctrlc-9eb2d27a512e3926.rlib: /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/lib.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/error.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/platform/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/platform/unix/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/signal.rs
+
+/home/Rishi/Documents/coding_Projects/OS_project/os_rust/target/release/deps/libctrlc-9eb2d27a512e3926.rmeta: /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/lib.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/error.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/platform/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/platform/unix/mod.rs /home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/signal.rs
+
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/lib.rs:
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/error.rs:
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/platform/mod.rs:
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/platform/unix/mod.rs:
+/home/Rishi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.2/src/signal.rs:
