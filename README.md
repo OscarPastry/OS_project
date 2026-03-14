@@ -1,4 +1,4 @@
-# 🌿 OS_project—Carbon-Aware Green Task Scheduler
+# 🌿 OS_project — Carbon-Aware Green Task Scheduler
 
 A **carbon-aware task scheduler** that delays non-urgent computational tasks when grid electricity carbon intensity is high, and runs them when it's low — reducing the carbon footprint of computation.
 
